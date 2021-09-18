@@ -1,0 +1,52 @@
+/**项目中用到的变量申明*/
+@import './mixins.scss';
+
+// 背景默认色
+$bgColor: #fff;
+//背景灰
+$bgColorGrey: #eee;
+// 主色
+$mainColor: #0199ff;
+// 辅色橙
+$subColorOrange: #f68b03;
+// 辅色绿
+$subColorGreen: #00cf67;
+// 辅色灰
+$subColorGrey: #00cf67;
+//危险色
+$dangerColor: #ff5b5e;
+//标签色蓝色 70%透明
+$labelColorBlue: rgba(1, 159, 255, .7);
+//标签色橙色 70%透明
+$labelColorOrange: rgba(246, 139, 3, .7);
+//标签色绿色 70%透明
+$labelColorGreen: rgba(0, 207, 103, .7);
+//边框颜色
+$borderColor: #ccc;
+// 默认颜色
+$color: #666;
+$titleColor: #07111b;
+$secondaryColor: #9199a1;
+$activeTextColor: #0199ff;
+$color-grey: #bfbfbf;
+$color-border: #ccc;
+$color-bg: #f4f6fa;
+$fontSize: 16px;
+$font-lg: 24px;
+$font-sm: 14px;
+$lineHeight: 1.125;
+$fontFamily: Helvetica Neue,
+Helvetica,
+PingFang SC,
+Hiragino Sans GB,
+Microsoft YaHei,
+微软雅黑,
+Arial,
+sans-serif;
+// $fontSize: 16px;
+// $lineHeight: 1.125;
+// $font: $fontSize/$lineHeight $fontFamily;
+// @media screen and (min-width: 1366px) and (max-width: 1919px) {
+//     $font-lg: 20px;
+// }
+
